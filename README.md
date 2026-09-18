@@ -2,8 +2,7 @@
 
 This is a Power BI dashboard I built to practice data analysis and dashboard design — analyzing retail sales data across different outlet types, product categories, and locations, styled around the Blinkit grocery delivery theme.
 
-![Dashboard Home](Blinkit_Dashboard_2.png)
-![Dashboard View](Blinkit_Dashboard_1.png)
+
 
 ## About this project
 
